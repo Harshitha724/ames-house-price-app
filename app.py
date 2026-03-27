@@ -1,3 +1,6 @@
+st.title("🏠 Bangalore House Price Prediction App")
+st.write("Enter the details below to predict the house price.")
+
 import streamlit as st
 import joblib
 import pandas as pd
